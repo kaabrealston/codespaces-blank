@@ -11,7 +11,7 @@ Print (True)
 
 () #round brackets = function
 {} #curly brackets = objects
-[] # square brackets = lists
+[] #square brackets = lists
 
 # varubles = is a contanier for data
 # we write varibles by first declaring/ giving it a name
