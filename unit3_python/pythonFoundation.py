@@ -24,11 +24,43 @@ meassage = 'goodmorning'
 print (message, name)
 
 story = "i will be going to"
- location =''
- time =''
- print(story)
+location = ''
+time ='25'
+print(story)
 
-valA=10
+valA =10
 valB=20
 
 print( valA,valB)
+
+
+
+
+
+
+# python varibles are just contaniers for data
+email='thecalzp@gmail.com'
+checkingAccount = 2000.43
+didYougetTheFlueshot = True
+userLogin_passwordreset_premiumMember =''
+user_password = ''
+discount25 = .25
+
+# camel case = when naming a varible 
+# every word after the first word is capitlized
+loginname=''
+resetPasswordCode =''
+
+# snake case =  when naming a varible, every word after
+# the first word is spaced out with an underscore.
+loginname=''
+resetPasswordCode =''
+
+# pascal case = when naming a varible, every new word is capitilized
+
+
+
+
+
+
+

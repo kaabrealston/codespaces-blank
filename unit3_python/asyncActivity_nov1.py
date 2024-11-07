@@ -16,3 +16,4 @@ print(a+b)
 
 
 calendar=[]
+discount= .25
